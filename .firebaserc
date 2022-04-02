@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "a-ngrx": {
+      "hosting": {
+        "a-ngrx": [
+          "a-ngrx"
+        ]
+      }
+    }
+  }
+}

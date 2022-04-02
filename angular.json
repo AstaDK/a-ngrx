@@ -127,8 +127,13 @@
               "devServerTarget": "a-ngrx:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
+    }
+  },
   "defaultProject": "a-ngrx"
 }
