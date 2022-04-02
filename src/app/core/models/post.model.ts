@@ -8,7 +8,7 @@ export interface PostUser {
 
 export interface Post {
   caption?: string;
-  images?: string[];
+  images?: string;
   user: PostUser;
   createdAt: Date;
 }
